@@ -1,0 +1,11 @@
+/*
+ * Base structure
+ */
+
+li a {
+    color: green;
+}
+
+body {
+    background: white url("https://www.emobile.ie/assets/static/images/christmas/backgrounds/background.gif") no-repeat right bottom;
+}
